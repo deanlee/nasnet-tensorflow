@@ -259,9 +259,6 @@ python freeze_graph.py \
 python image_inference.py
 ```
 
-#### Output
-![Inference demo output](https://github.com/yeephycho/nasnet-tensorflow/blob/master/demo/output/demo_output.png?raw=true "Show result")
-
 
 
 ## Reference
